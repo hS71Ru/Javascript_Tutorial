@@ -1,0 +1,1 @@
+i am file-0, please read me and if need any modification , make it by write operation.
